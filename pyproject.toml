@@ -10,6 +10,9 @@ python = ">=3.8,<3.9.7"
 streamlit = "^1.35.0"
 requests = "^2.32.3"
 websockets = "^12.0"
+jupyter = "^1.0.0"
+tqdm = "^4.66.4"
+plotly = "^5.22.0"
 
 
 [build-system]
